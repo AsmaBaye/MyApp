@@ -1,0 +1,18 @@
+.Addtask{
+	
+	text-align: center;
+}
+
+.input{
+	background-color: bisque;
+	border-radius: 5%;
+	min-height: 2em;
+	min-width: 50em;
+	
+}
+
+.TaskButton{
+	min-height: 2em;
+	border-radius: 5%;
+	
+}
